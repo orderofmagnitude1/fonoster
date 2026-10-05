@@ -43,7 +43,7 @@
     "@fonoster/core": "^0.5.5",
     "@fonoster/errors": "^0.5.5",
     "@fonoster/logger": "^0.5.5",
-    "@grpc/grpc-js": "~1.8.21",
+    "@grpc/grpc-js": "~1.13.6",
     "bson-objectid": "^2.0.2",
     "google-protobuf": "^3.17.0",
     "grpc-promise": "^1.4.0",
